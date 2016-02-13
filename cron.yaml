@@ -1,4 +1,4 @@
 cron:
 - description: Check for new notifications
-  url: /check
+  url: https://20160212t194458-dot-the-things-ill-do-for-love.appspot.com/check
   schedule: every 2 minutes
